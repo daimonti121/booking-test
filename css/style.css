@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: "ft40 Roman";
-  src: url('../font/ft40-roman.woff');
+  src: url("../font/ft40-roman.woff");
   font-weight: normal;
   font-style: normal; }
 body {
