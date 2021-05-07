@@ -15,7 +15,7 @@ body {
   font-size: 7.1vw;
   font-family: "ft40 Roman";
   color: rgba(255, 255, 255, 0.2);
-  background: url("/image/NATURE_1.JPG") repeat-x bottom 10px right 0px;
+  background: url("../image/NATURE_1.JPG") repeat-x bottom 10px right 0px;
   -webkit-background-clip: text;
   background-size: cover;
   -webkit-transition: 30s background-position;
